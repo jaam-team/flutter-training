@@ -1,0 +1,847 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 8448,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "sgpoHQAACAAJ",
+        "etag": "8ZOeTy2U0Fc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/sgpoHQAACAAJ",
+        "volumeInfo": {
+          "title": "The Norton Book of Science Fiction",
+          "subtitle": "North American Science Fiction, 1960-1990",
+          "authors": [
+            "Ursula K. Le Guin",
+            "Brian Attebery"
+          ],
+          "publisher": "W. W. Norton",
+          "publishedDate": "1993",
+          "description": "A collection of sixty-seven contemporary American science fiction writers includes contributions by Poul Anderson, Margaret Atwood, Octavia Butler, Samuel R. Delany, and Philip K. Dick. Tour.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0393035468"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780393035469"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 869,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=sgpoHQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=sgpoHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=sgpoHQAACAAJ&dq=fiction&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=sgpoHQAACAAJ&dq=fiction&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Norton_Book_of_Science_Fiction.html?hl=&id=sgpoHQAACAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=sgpoHQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "A collection of sixty-seven contemporary American science fiction writers includes contributions by Poul Anderson, Margaret Atwood, Octavia Butler, Samuel R. Delany, and Philip K. Dick. Tour."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "rFHHAgAAQBAJ",
+        "etag": "Wulw5lVsHUQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/rFHHAgAAQBAJ",
+        "volumeInfo": {
+          "title": "Discovering Fiction Level 1 Student's Book",
+          "subtitle": "A Reader of North American Short Stories",
+          "authors": [
+            "Judith Kay",
+            "Rosemary Gelshenen"
+          ],
+          "publisher": "Cambridge University Press",
+          "publishedDate": "2012-12-14",
+          "description": "North American short stories enhance students' reading skills, language learning, and enjoyment of literature. Discovering Fiction, Second Edition, Student's Book 1 presents stories with universal appeal to engage students and make them think critically. Among the authors included are O. Henry, William Saroyan, Gwendolyn Brooks, Isaac Asimov, and Sandra Cisneros. Extensive pre-reading activities capture students' interest. Post-reading activities check their comprehension, increase their knowledge of grammar and vocabulary, and provide thought-provoking discussion and writing assignments. Literary term explanations and tasks enhance students' appreciation of literature.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781107652224"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1107652227"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 241,
+          "printType": "BOOK",
+          "categories": [
+            "Foreign Language Study"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=rFHHAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=rFHHAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=rFHHAgAAQBAJ&printsec=frontcover&dq=fiction&hl=&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=rFHHAgAAQBAJ&dq=fiction&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Discovering_Fiction_Level_1_Student_s_Bo.html?hl=&id=rFHHAgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Discovering_Fiction_Level_1_Student_s_Bo-sample-pdf.acsm?id=rFHHAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=rFHHAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "North American short stories enhance students&#39; reading skills, language learning, and enjoyment of literature."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "bEAyEAAAQBAJ",
+        "etag": "7gm11XiNbYY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bEAyEAAAQBAJ",
+        "volumeInfo": {
+          "title": "Booth",
+          "authors": [
+            "Karen Joy Fowler"
+          ],
+          "publisher": "Penguin",
+          "publishedDate": "2022-03-08",
+          "description": "Best Book of the Year Real Simple • AARP • USA Today Longlisted for the 2022 Booker Prize From the Man Booker finalist and bestselling author of We Are All Completely Beside Ourselves comes an epic and intimate novel about the family behind one of the most infamous figures in American history: John Wilkes Booth. In 1822, a secret family moves into a secret cabin some thirty miles northeast of Baltimore, to farm, to hide, and to bear ten children over the course of the next sixteen years. Junius Booth—breadwinner, celebrated Shakespearean actor, and master of the house in more ways than one—is at once a mesmerizing talent and a man of terrifying instability. One by one the children arrive, as year by year, the country draws frighteningly closer to the boiling point of secession and civil war. As the tenor of the world shifts, the Booths emerge from their hidden lives to cement their place as one of the country’s leading theatrical families. But behind the curtains of the many stages they have graced, multiple scandals, family triumphs, and criminal disasters begin to take their toll, and the solemn siblings of John Wilkes Booth are left to reckon with the truth behind the destructively specious promise of an early prophecy. Booth is a startling portrait of a country in the throes of change and a vivid exploration of the ties that make, and break, a family.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780593331446"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0593331443"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 481,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 10,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "3.4.4.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=bEAyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=bEAyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=bEAyEAAAQBAJ&printsec=frontcover&dq=fiction&hl=&cd=3&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=bEAyEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bEAyEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 13.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 13.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=bEAyEAAAQBAJ&rdid=book-bEAyEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 13990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 13990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Booth-sample-epub.acsm?id=bEAyEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=bEAyEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Booth is a startling portrait of a country in the throes of change and a vivid exploration of the ties that make, and break, a family."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "NtukmPtq2l8C",
+        "etag": "4hPBdn2t+vg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/NtukmPtq2l8C",
+        "volumeInfo": {
+          "title": "The Man in the High Castle",
+          "authors": [
+            "Philip K. Dick"
+          ],
+          "publisher": "Houghton Mifflin Harcourt",
+          "publishedDate": "2011",
+          "description": "In a classic work of alternate history, the United States is divided up and ruled by the Axis powers after the defeat of the Allies during World War II. Reissue. Winner of the Hugo Award for Best Novel.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780547572482"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0547572484"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 292,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 3,
+          "ratingsCount": 152,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.0.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=NtukmPtq2l8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=NtukmPtq2l8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=NtukmPtq2l8C&printsec=frontcover&dq=fiction&hl=&cd=4&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=NtukmPtq2l8C&dq=fiction&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_in_the_High_Castle.html?hl=&id=NtukmPtq2l8C"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/The_Man_in_the_High_Castle-sample-pdf.acsm?id=NtukmPtq2l8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=NtukmPtq2l8C&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "In a classic work of alternate history, the United States is divided up and ruled by the Axis powers after the defeat of the Allies during World War II. Reissue. Winner of the Hugo Award for Best Novel."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "vM2jQgAACAAJ",
+        "etag": "XI/DzpOpzWY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vM2jQgAACAAJ",
+        "volumeInfo": {
+          "title": "Postmodern American Fiction",
+          "subtitle": "A Norton Anthology",
+          "authors": [
+            "Paula Geyh",
+            "Fred G. Leebron",
+            "Andrew Levy"
+          ],
+          "publisher": "W. W. Norton",
+          "publishedDate": "1998",
+          "description": "Collects works by sixty-eight authors, including William S. Burroughs, Kurt Vonnegut, Art Spiegelman, Lynda Barry, Bobbie Ann Mason, and Douglas Coupland",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "039331698X"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780393316988"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 672,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vM2jQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vM2jQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=vM2jQgAACAAJ&dq=fiction&hl=&cd=5&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=vM2jQgAACAAJ&dq=fiction&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Postmodern_American_Fiction.html?hl=&id=vM2jQgAACAAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=vM2jQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Collects works by sixty-eight authors, including William S. Burroughs, Kurt Vonnegut, Art Spiegelman, Lynda Barry, Bobbie Ann Mason, and Douglas Coupland"
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "GdgeAAAAQBAJ",
+        "etag": "AnweSo+A7pY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/GdgeAAAAQBAJ",
+        "volumeInfo": {
+          "title": "The Course of True Love (and First Dates)",
+          "authors": [
+            "Cassandra Clare"
+          ],
+          "publisher": "Simon and Schuster",
+          "publishedDate": "2014-03-18",
+          "description": "Magnus Bane and Alec Lightwood might fall in love—but first they have a first date. One of ten adventures in The Bane Chronicles. When Magnus Bane, warlock, meets Alec Lightwood, Shadowhunter, sparks fly. And what happens on their first date lights a flame... This standalone e-only short story illuminates the life of the enigmatic Magnus Bane, whose alluring personality populates the pages of the #1 New York Times bestselling series The Mortal Instruments and The Infernal Devices. This story in The Bane Chronicles, The Course of True Love (and First Dates), is written by Cassandra Clare.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781442495630"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1442495634"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 45,
+          "printType": "BOOK",
+          "categories": [
+            "Juvenile Fiction"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.3.3.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=GdgeAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=GdgeAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=GdgeAAAAQBAJ&printsec=frontcover&dq=fiction&hl=&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=GdgeAAAAQBAJ&dq=fiction&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Course_of_True_Love_and_First_Dates.html?hl=&id=GdgeAAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/The_Course_of_True_Love_and_First_Dates-sample-epub.acsm?id=GdgeAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=GdgeAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "This story in The Bane Chronicles, The Course of True Love (and First Dates), is written by Cassandra Clare."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "dlvpA43l68YC",
+        "etag": "Rmpu78ECzjQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/dlvpA43l68YC",
+        "volumeInfo": {
+          "title": "Twentieth-century Poetry, Fiction, Theory",
+          "authors": [
+            "Harry Raphael Garvin",
+            "John D. Kirkland"
+          ],
+          "publisher": "Bucknell University Press",
+          "publishedDate": "1977",
+          "description": "The issues addressed in this volume include the limits of language and the need for linguistic form, the significance of creating.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0838719341"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780838719343"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 244,
+          "printType": "BOOK",
+          "categories": [
+            "Poetry"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.1.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=dlvpA43l68YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=dlvpA43l68YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=dlvpA43l68YC&pg=PA13&dq=fiction&hl=&cd=7&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=dlvpA43l68YC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dlvpA43l68YC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 28,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 15.12,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=dlvpA43l68YC&rdid=book-dlvpA43l68YC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 28000000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 15120000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Twentieth_century_Poetry_Fiction_Theory-sample-epub.acsm?id=dlvpA43l68YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Twentieth_century_Poetry_Fiction_Theory-sample-pdf.acsm?id=dlvpA43l68YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=dlvpA43l68YC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Reflective and Reflexive Trends in Modern \u003cb\u003eFiction\u003c/b\u003e MAURICE BEEBE Temple University M UCH has been written lately about the reflexive and solipsistic quality of Modernist literature , the way in which it turns inward and considers&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "EquizXeXb3kC",
+        "etag": "V+aTmDJigWQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/EquizXeXb3kC",
+        "volumeInfo": {
+          "title": "John Fowles's Fiction and the Poetics of Postmodernism",
+          "authors": [
+            "Mahmoud Salami"
+          ],
+          "publisher": "Associated University Presse",
+          "publishedDate": "1992",
+          "description": "This book presents a deconstructive reading of the novels and short stories of John Fowles. As a contemporary novelist, Fowles began as a modernist self-consciously aware of the various narratological problems that he encountered throughout his writings. In his most recent novel, A Maggot, however, he assumes the role of the postmodernist who not only subverts the tradition of narratology, but also poses a series of problems concerning history and politics. Throughout this study, Mahmoud Salami attempts to locate Fowles's fiction in the context of modern critical theory and narrative poetics. He provides a lively analysis of the ways in which Fowles deliberately deployed realistic historical narrative in order to subvert them from within the very conventions they seek to transgress, and he examines these subversive techniques and the challenges they pose to the tradition of narratology. Salami presents, for instance, a critique of the self-conscious narrative of the diary form in The Collector, the intertextual relations of the multiplicity of voices, the problems of subjectivity, the reader's position, the politics of seduction, ideology, and history in The Magus and The French Lieutenant's Woman. The book also analyzes the ways in which Fowles uses and abuses the short-story genre, in which enigmas remain enigmatic and the author disappears to leave the characters free to construct their own texts. Salami centers, for example, on A Maggot, which embodies the postmodernist technique of dialogical narrative, the problem of narrativization of history, and the explicitly political critique of both past and present in terms of social and religious dissent. These political questions are also echoed in Fowles's nonfictional book The Aristos, in which he strongly rejects the totalization of narratives and the materialization of society. Indeed, Fowles emerges as a postmodernist novelist committed to the underprivileged, to social democracy, and to literary pluralism. This study clearly illustrates the fact that Fowles is a poststructuralist--let alone a postmodernist--in many ways: in his treatment of narratives, in mixing history with narrative fiction and philosophy, and in his appeal for freedom and for social and literary pluralism. It significantly contributes to a better understanding of Fowles's problematical narratives, which can only be properly understood if treated within the fields of modern critical theory, narratology, and the poetics of postmodernism.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "083863446X"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780838634462"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 312,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Collections"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.2.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=EquizXeXb3kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=EquizXeXb3kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=EquizXeXb3kC&pg=PA18&dq=fiction&hl=&cd=8&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=EquizXeXb3kC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EquizXeXb3kC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 42.5,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 31.45,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=EquizXeXb3kC&rdid=book-EquizXeXb3kC&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 42500000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 31450000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/John_Fowles_s_Fiction_and_the_Poetics_of-sample-epub.acsm?id=EquizXeXb3kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/John_Fowles_s_Fiction_and_the_Poetics_of-sample-pdf.acsm?id=EquizXeXb3kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=EquizXeXb3kC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Moreover , the particular shift of point of view that structures the novelistic form of writing in Fowles&#39;s \u003cb\u003efiction\u003c/b\u003e , and the startling use of the narrative past in Daniel Martin in particular , make it possible to see the multiple&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "5Zpq0Rmm7hQC",
+        "etag": "YfRjppgd0uU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/5Zpq0Rmm7hQC",
+        "volumeInfo": {
+          "title": "The Distinction of Fiction",
+          "authors": [
+            "Dorrit Cohn"
+          ],
+          "publisher": "JHU Press",
+          "publishedDate": "2000-12",
+          "description": "Winner of the Aldo and Jeanne Scaglione Prize for Comparative Literary Studies from the Modern Language Association Winner of the Modern Language Association's Aldo and Jeanne Scaglione Prize for Comparative Literary Studies The border between fact and fiction has been trespassed so often it seems to be a highway. Works of history that include fictional techniques are usually held in contempt, but works of fiction that include history are among the greatest of classics. Fiction claims to be able to convey its own unique kinds of truth. But unless a reader knows in advance whether a narrative is fictional or not, judgment can be frustrated and confused. In The Distinction of Fiction, Dorrit Cohn argues that fiction does present specific clues to its fictionality, and its own justifications. Indeed, except in cases of deliberate deception, fiction achieves its purposes best by exercising generic conventions that inform the reader that it is fiction. Cohn tests her conclusions against major narrative works, including Proust's A la Recherche du temps perdu, Mann's Death in Venice, Tolstoy's War and Peace, and Freud's case studies. She contests widespread poststructuralist views that all narratives are fictional. On the contrary, she separates fiction and nonfiction as necessarily distinct, even when bound together. An expansion of Cohn's Christian Gauss lectures at Princeton and the product of many years of labor and thought, The Distinction of Fiction builds on narratological and phenomenological theories to show that boundaries between fiction and history can be firmly and systematically explored.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "0801865220"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9780801865220"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 214,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.3.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=5Zpq0Rmm7hQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=5Zpq0Rmm7hQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=5Zpq0Rmm7hQC&pg=PA2&dq=fiction&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=5Zpq0Rmm7hQC&dq=fiction&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/The_Distinction_of_Fiction.html?hl=&id=5Zpq0Rmm7hQC"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/The_Distinction_of_Fiction-sample-pdf.acsm?id=5Zpq0Rmm7hQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=5Zpq0Rmm7hQC&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "With the scope and slipperiness of its referential field favoring imperceptible glides , the homonymic plurality of the word \u003cb\u003efiction\u003c/b\u003e has notably eased the erasure of boundaries between different types of discourse ."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "Lf99BAAAQBAJ",
+        "etag": "kCLQ0DgzMqA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Lf99BAAAQBAJ",
+        "volumeInfo": {
+          "title": "A Little Life",
+          "subtitle": "A Novel",
+          "authors": [
+            "Hanya Yanagihara"
+          ],
+          "publisher": "Anchor",
+          "publishedDate": "2015-03-10",
+          "description": "NATIONAL BESTSELLER • A stunning “portrait of the enduring grace of friendship” (NPR) about the families we are born into, and those that we make for ourselves. A masterful depiction of love in the twenty-first century. A NATIONAL BOOK AWARD FINALIST • A MAN BOOKER PRIZE FINALIST • WINNER OF THE KIRKUS PRIZE A Little Life follows four college classmates—broke, adrift, and buoyed only by their friendship and ambition—as they move to New York in search of fame and fortune. While their relationships, which are tinged by addiction, success, and pride, deepen over the decades, the men are held together by their devotion to the brilliant, enigmatic Jude, a man scarred by an unspeakable childhood trauma. A hymn to brotherly bonds and a masterful depiction of love in the twenty-first century, Hanya Yanagihara’s stunning novel is about the families we are born into, and those that we make for ourselves. Look for Hanya Yanagihara’s new novel, To Paradise, coming in January 2022.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780385539265"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0385539266"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 736,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 119,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.14.15.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=Lf99BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=Lf99BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=Lf99BAAAQBAJ&printsec=frontcover&dq=fiction&hl=&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=Lf99BAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Lf99BAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "US",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 10.99,
+            "currencyCode": "USD"
+          },
+          "retailPrice": {
+            "amount": 10.99,
+            "currencyCode": "USD"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=Lf99BAAAQBAJ&rdid=book-Lf99BAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 10990000,
+                "currencyCode": "USD"
+              },
+              "retailPrice": {
+                "amountInMicros": 10990000,
+                "currencyCode": "USD"
+              },
+              "giftable": true
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "US",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/A_Little_Life-sample-epub.acsm?id=Lf99BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=Lf99BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "NATIONAL BOOK AWARD FINALIST • MAN BOOKER PRIZE FINALIST • WINNER OF THE KIRKUS PRIZE A Little Life follows four college classmates—broke, adrift, and buoyed only by their friendship and ambition—as they move to New York in search ..."
+        }
+      }
+    ]
+  }
