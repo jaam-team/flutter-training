@@ -4,7 +4,9 @@ import 'dart:collection';
 
 import 'package:flutter/material.dart';
 import 'package:login/main.dart';
-import 'package:login/pages/home_page.dart';
+import 'package:login/pages/api.dart';
+// import 'package:login/pages/home_page.dart';
+import 'package:login/pages/userdetails.dart';
 
 class login extends StatelessWidget{
   const login ({super.key});
@@ -55,7 +57,7 @@ class login extends StatelessWidget{
         child: ElevatedButton(
           onPressed: (){
             Navigator.of(context).push(
-              MaterialPageRoute(builder: (context) => home())
+              MaterialPageRoute(builder: (context) => Sample())
             );
           },
           child: const Text('SignIn'),
