@@ -44,7 +44,7 @@ return Text("${snapshot.error}");
   }
 }
  Future<List<StudentModel>> fetchAlbum ()  async{
-  final response= await http.get(Uri.parse('https://my-json-server.typicode.com/dmitrijt9/book-api-mock/books'));
+  final response= await http.get(Uri.parse(''));
 if(response.statusCode==200){
   List jsonstudent=json.decode(response.body);
    return jsonstudent.map((book) => StudentModel.fromJson(book)).toList();
