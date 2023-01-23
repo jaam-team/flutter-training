@@ -33,7 +33,6 @@ class _OnboardingState extends State<Onboarding> {
       body: Column(
         children: [
           Container(
-            
             child: Expanded(
               child: PageView.builder(
                 controller: _controller,
@@ -45,27 +44,29 @@ class _OnboardingState extends State<Onboarding> {
                 },
                 itemBuilder: (_, i) {
                   return Padding(
-                  
                     padding: const EdgeInsets.all(22),
-                    child: Column(                    
+                    child: Column(
                       children: [
+                        Column(children: const [
+        Padding(padding:EdgeInsets.all(14.0),child:Align(alignment: Alignment.topCenter, child: Text("Jaam Bank",style:TextStyle(color: Colors.white,fontSize: 17),),)),
+        Padding(padding:EdgeInsets.all(22.0),child: Text("Save Your balance",style: TextStyle(color: Colors.white,fontSize:32,))),
+      ],),
                         Image.asset(
                           contents[i].image,
-                          height: 300,
+                          height: 190,
                         ),
-                         Text(
+                        Text(
                           contents[i].title,
                           style: TextStyle(
-                            fontSize: 36,
-                            fontWeight: FontWeight.bold,
-                            color: Colors.white
-                          ),
+                              fontSize: 36,
+                              fontWeight: FontWeight.bold,
+                              color: Colors.white),
                         ),
                         SizedBox(height: 20),
                         Text(
                           contents[i].discription,
                           textAlign: TextAlign.center,
-                          style:  TextStyle(
+                          style: TextStyle(
                             fontSize: 18,
                             color: Colors.white,
                           ),
@@ -91,9 +92,9 @@ class _OnboardingState extends State<Onboarding> {
             margin: EdgeInsets.all(40),
             width: double.infinity,
             //  color: Theme.of(context).primaryColor,
-              // shape: RoundedRectangleBorder(
-              //   borderRadius: BorderRadius.circular(20),
-              // ),
+            // shape: RoundedRectangleBorder(
+            //   borderRadius: BorderRadius.circular(20),
+            // ),
             child: ElevatedButton(
               child: Text(
                   currentIndex == contents.length - 1 ? "Continue" : "Next"),
@@ -111,7 +112,6 @@ class _OnboardingState extends State<Onboarding> {
                   curve: Curves.bounceIn,
                 );
               },
-             
             ),
           )
         ],
@@ -130,5 +130,4 @@ class _OnboardingState extends State<Onboarding> {
       ),
     );
   }
- 
 }
