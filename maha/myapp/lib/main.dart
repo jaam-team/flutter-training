@@ -1,4 +1,25 @@
 import 'package:flutter/material.dart';
+
+
+import 'onboarding.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        // primarySwatch: Colors.amber,
+      ),
+      home: Onboarding(),
+    );
+  }
+}
+
+
+/* import 'package:flutter/material.dart';
 import './homepage.dart'; //import a homepage
 
 void main() {
@@ -17,4 +38,6 @@ class MyApp extends StatelessWidget {
       home: HomePage(), //add the homepage to the main application
     );
   }
-}
+} */
+
+
